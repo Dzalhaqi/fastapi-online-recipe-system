@@ -46,7 +46,7 @@ This API Project, is a API prototype known as the "Online Recipe System." This s
 
 ### Preview API Docs (using Redocly)
 
-![image](https://github.com/Dzalhaqi/fastapi-online-recipe-system/assets/52716202/804414e1-09f7-46fb-9b50-de87d56aad2f)
+![image](https://github.com/Dzalhaqi/fastapi-online-recipe-system/assets/52716202/61c68ab2-6ebf-468d-9bbd-546c7939a5e1)
 
 ## Built With
 
